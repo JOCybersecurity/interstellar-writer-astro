@@ -1,4 +1,4 @@
-name: anthropic-wif-test
+name: anthropic-wif-tes
 on: push
 permissions:
   id-token: write
